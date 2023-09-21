@@ -1,0 +1,15 @@
+/home/awwal/Desktop/CalculatorApp/ControlStatements/bin/Debug/net6.0/ControlStatements
+/home/awwal/Desktop/CalculatorApp/ControlStatements/bin/Debug/net6.0/ControlStatements.deps.json
+/home/awwal/Desktop/CalculatorApp/ControlStatements/bin/Debug/net6.0/ControlStatements.runtimeconfig.json
+/home/awwal/Desktop/CalculatorApp/ControlStatements/bin/Debug/net6.0/ControlStatements.dll
+/home/awwal/Desktop/CalculatorApp/ControlStatements/bin/Debug/net6.0/ControlStatements.pdb
+/home/awwal/Desktop/CalculatorApp/ControlStatements/obj/Debug/net6.0/ControlStatements.csproj.AssemblyReference.cache
+/home/awwal/Desktop/CalculatorApp/ControlStatements/obj/Debug/net6.0/ControlStatements.GeneratedMSBuildEditorConfig.editorconfig
+/home/awwal/Desktop/CalculatorApp/ControlStatements/obj/Debug/net6.0/ControlStatements.AssemblyInfoInputs.cache
+/home/awwal/Desktop/CalculatorApp/ControlStatements/obj/Debug/net6.0/ControlStatements.AssemblyInfo.cs
+/home/awwal/Desktop/CalculatorApp/ControlStatements/obj/Debug/net6.0/ControlStatements.csproj.CoreCompileInputs.cache
+/home/awwal/Desktop/CalculatorApp/ControlStatements/obj/Debug/net6.0/ControlStatements.dll
+/home/awwal/Desktop/CalculatorApp/ControlStatements/obj/Debug/net6.0/refint/ControlStatements.dll
+/home/awwal/Desktop/CalculatorApp/ControlStatements/obj/Debug/net6.0/ControlStatements.pdb
+/home/awwal/Desktop/CalculatorApp/ControlStatements/obj/Debug/net6.0/ControlStatements.genruntimeconfig.cache
+/home/awwal/Desktop/CalculatorApp/ControlStatements/obj/Debug/net6.0/ref/ControlStatements.dll
